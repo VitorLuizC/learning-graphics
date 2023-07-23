@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 gl33 = "^0.2.1"
+glfw = "^0.52.0"
